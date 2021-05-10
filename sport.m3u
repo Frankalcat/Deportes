@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1  group-title="Lista TV", BEIN SPORTS N
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=beines&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=directv&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", DIRECTV SPORTS +
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=directvplus&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS PREMIUM
+#EXTINF:-1  group-title="Lista TV", ESPN
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espn1mx&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", ESPN 2
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espn2mx&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", ESPN 3
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espn3mx&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", ESPN EXTRA
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espnextramx&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", ESPN DEPORTES
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=espndep&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsport1mx&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 2
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsport2mx&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", FOX SPORTS 3
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=foxsport3mx&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", TUDN MX
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tudnmx&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", TUDN US
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tudnus&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", TVC DEPORTES
+http://ipeteve.com/php/SR_REGIO_422/regio22.php?c=tvcdep&f=.m3u8
+#EXTINF:-1  group-title="Lista TV", MeridianoTv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1620707721/ei/KbWZYPDRGLqZzLUPh8GBiAg/ip/190.85.157.209/id/AwvkNttD9yc.1/source/yt_live_broadcast/requiressl/yes/tx/24027399/txs/24027395%2C24027396%2C24027397%2C24027398%2C24027399%2C24027400/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPugCN-0mSzOfYLCWRHBJIeKyIQeLpSZocbJpBDjqvPkAiEA5hkhzv9LMkVVDJ4H76HTCy_-YNz8xt3L59Va49zLu5c%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Sport",Win Sports+
+http://saypopular.com:25461/oscar/20gar/52853
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Sport",Claro Sports (1080p)
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
